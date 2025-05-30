@@ -29,9 +29,9 @@ export default function Home() {
             </div>
           </div>
           
-          <div className="w-full max-w-4xl mt-12">
+          {/* <div className="w-full max-w-4xl mt-12">
             <HeroAnimation />
-          </div>
+          </div> */}
         </div>
       </section>
 
